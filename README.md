@@ -9,8 +9,6 @@
 - [Model Descriptions](#model-descriptions)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project focuses on detecting fraud in financial transactions using various machine learning models. The models implemented range from linear models like Logistic Regression to ensemble methods like Random Forest and XGBoost, as well as anomaly detection techniques like Isolation Forest and Local Outlier Factor (LOF). The goal is to identify abnormal behaviors in financial transactions accurately and robustly.
@@ -25,7 +23,7 @@ This project focuses on detecting fraud in financial transactions using various 
   - Isolation Forest(IF)
   - Local Outlier Factor (LOF)
   - Recurrent Neural Network (RNN)
-- Hyperparameter tuning using Grid Search for optimized model performance.
+- Hyperparameter tuning using Grid Search and Optuna for optimized model performance.
 - Evaluation metrics including confusion matrix and classification report.
 
 ## Technologies Used
