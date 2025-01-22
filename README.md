@@ -1,10 +1,6 @@
 # Fraud Detection in Financial Transactions
 
-[[ DOI: 10.5281/zenodo.14718520
-
- https: //doi.org/10.5281/zenodo.14718520](https://zenodo.org/records/14718520?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjNhMWZlMGJlLWI3NjItNGFmZS04NWJiLTk4ZGM0YmYxM2RiZCIsImRhdGEiOnt9LCJyYW5kb20iOiJkNjI5Zjc2ZDM4YmY5ZTdhMDZhODE5M2NmMTY0YThhZCJ9.prwI2zx5mHDbfreU1dE4EgEVVSntjAC1jr-6Qt1WGtu_HnQUQGBGJS1TPBxl3EXHAFR4f8XPh2I7VV3mqygeoA)
-](https://zenodo.org/records/14718520?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjNhMWZlMGJlLWI3NjItNGFmZS04NWJiLTk4ZGM0YmYxM2RiZCIsImRhdGEiOnt9LCJyYW5kb20iOiJkNjI5Zjc2ZDM4YmY5ZTdhMDZhODE5M2NmMTY0YThhZCJ9.prwI2zx5mHDbfreU1dE4EgEVVSntjAC1jr-6Qt1WGtu_HnQUQGBGJS1TPBxl3EXHAFR4f8XPh2I7VV3mqygeoA)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14718520.svg)](https://doi.org/10.5281/zenodo.14718520)
 
 ## Table of Contents
 - [Introduction](#introduction)
