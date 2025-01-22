@@ -1,5 +1,9 @@
 # Fraud Detection in Financial Transactions
+
  DOI: 10.5281/zenodo.14718520
+
+ https: //doi.org/10.5281/zenodo.14718520
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
